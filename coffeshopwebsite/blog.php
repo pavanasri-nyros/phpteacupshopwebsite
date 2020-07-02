@@ -68,6 +68,6 @@ if (isset($_SESSION['login'])) {
 <?php
 
 } else {
-    header("location:login.php ");
+    header("location:https://friendly-sorry-32698.herokuapp.com/login.php");
 }
 ?>
