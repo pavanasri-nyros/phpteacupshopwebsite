@@ -52,11 +52,11 @@
                     <h2 class="brand-before">
                         <small>Welcome to</small>
                     </h2>
-                    <h1 class="brand-name">The Perfect Cup</h1>
+                    <h1 class="brand-name">Coffee Cup</h1>
                     <hr class="tagline-divider">
                     <h2>
                         <small>By
-                            <strong>John Smith</strong>
+                            <strong>Pavana sri</strong>
                         </small>
                     </h2>
                 </div>
